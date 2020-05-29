@@ -1,4 +1,4 @@
-package day4_OOP;
+package src.day4_OOP;
 
 public class A {
     int num = 0;

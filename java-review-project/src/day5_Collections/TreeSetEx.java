@@ -1,4 +1,4 @@
-package day5_Collections;
+package src.day5_Collections;
 
 import java.util.TreeSet;
 
